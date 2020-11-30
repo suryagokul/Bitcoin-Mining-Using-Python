@@ -1,0 +1,1 @@
+This is Sample Git repository.
